@@ -1,9 +1,19 @@
 # IngeLibre
 
-**Libre engineering software, built by a practicing civil engineer in Peru.**
-Software libre de ingeniería, hecho por un ingeniero civil en ejercicio.
+**Linux distributions have no software ecosystem for civil engineering and
+construction.** CAD, 3D/BIM modeling, construction budgeting — the daily
+tools of the profession simply don't exist as free software, so engineers
+and builders stay dependent on proprietary systems and the platforms that
+run them. It shouldn't be that way.
 
-No engineer should need proprietary licenses to do professional work.
+**IngeLibre exists to build that missing ecosystem** — free (GPL) software
+for construction professionals, made by a practicing civil engineer.
+
+> **En las distribuciones Linux no existe un ecosistema de software para
+> ingeniería y construcción** — por eso los profesionales dependen de
+> sistemas privativos. No debería ser así. IngeLibre existe para construir
+> ese ecosistema que falta: software libre (GPL) para la construcción,
+> hecho por un ingeniero civil en ejercicio.
 
 | Project | What it is | Status |
 |---|---|---|
