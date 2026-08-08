@@ -19,7 +19,16 @@ for construction professionals, made by a practicing civil engineer.
 |---|---|---|
 | [**IngeCAD**](https://github.com/ingelibre/ingecad) | 2D CAD in the spirit of classic AutoCAD — faithful DWG/DXF round-trip, AutoCAD muscle-memory commands, Linux/Wayland first | [v0.1.0](https://github.com/ingelibre/ingecad/releases) |
 | [**IngeTrazo**](https://github.com/ingelibre/ingetrazo) | 3D modeling / BIM for civil work, SketchUp import | usable beta |
-| [**IngePresupuestos**](https://github.com/ingelibre/ingepresupuestos) | Construction budgeting (the S10 workflow, free) | mature |
+
+## Related / Relacionado
+
+[**IngePresupuestos**](https://ingepresupuestos.com) — construction budgeting
+(the S10 workflow) by the same author. Since v2.9.0 it is an independent,
+proprietary product with a free tier; its earlier releases (≤2.8.8) were
+published under GPL-3.0 and remain so. Its revenue helps fund the free
+projects above. / *Presupuestos de obra del mismo autor; desde la 2.9.0 es un
+producto independiente (propietario, con versión gratuita) cuyos ingresos
+ayudan a sostener los proyectos libres de esta organización.*
 
 ## We fix the ecosystem, not just our apps
 
