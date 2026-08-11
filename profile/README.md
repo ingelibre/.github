@@ -20,16 +20,6 @@ for construction professionals, made by a practicing civil engineer.
 | [**IngeCAD**](https://github.com/ingelibre/ingecad) · [ingecad.org](https://ingecad.org) | 2D CAD in the spirit of classic AutoCAD — faithful DWG/DXF round-trip, AutoCAD muscle-memory commands, paper space with viewports at exact scale, the full dimension family, plotting to scale. Linux/Wayland first | [v0.2.0](https://github.com/ingelibre/ingecad/releases/latest) · AppImage |
 | [**IngeTrazo**](https://github.com/ingelibre/ingetrazo) · [ingetrazo.com](https://ingetrazo.com) | 3D modeling / BIM for civil work, native SketchUp import, sheet composer | [v0.3.0](https://github.com/ingelibre/ingetrazo/releases/latest) |
 
-## Related / Relacionado
-
-[**IngePresupuestos**](https://ingepresupuestos.com) — construction budgeting
-(the S10 workflow) by the same author. Since v2.9.0 it is an independent,
-proprietary product with a free tier; its earlier releases (≤2.8.8) were
-published under GPL-3.0 and remain so. Its revenue helps fund the free
-projects above. / *Presupuestos de obra del mismo autor; desde la 2.9.0 es un
-producto independiente (propietario, con versión gratuita) cuyos ingresos
-ayudan a sostener los proyectos libres de esta organización.*
-
 ## We fix the ecosystem, not just our apps
 
 The DWG format is the wall every free CAD hits. Instead of working around
