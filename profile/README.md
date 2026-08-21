@@ -44,6 +44,23 @@ rest under review — each one reduced to a minimal reproducer.
   several reporters on them — plus bug reports with fixes to
   [ezdxf](https://github.com/mozman/ezdxf).
 
+The SketchUp format gets the same treatment. IngeTrazo's native `.skp`
+support is built on [OpenSKP](https://github.com/iamahsanmehmood/openskp),
+the free clean-room library for the format — and we build OpenSKP itself:
+**[20 pull requests so far](https://github.com/iamahsanmehmood/openskp/pulls?q=is%3Apr+author%3Atuxiasumari),
+19 merged**, one under review.
+
+- **Reading.** A complete reader for the classic 2013–2020 legacy format,
+  then hardened against a 13-year archive of real engineering projects:
+  **186 of 186 corpus files parse fully**, each fix validated with
+  byte-identical fingerprints.
+- **Writing.** Contributions to the `.skp` writer, including dimensions and
+  leader texts — record layouts decoded against ground-truth files generated
+  with the official SketchUp SDK, so every written file passes the official
+  reader.
+- **Both directions.** The collaboration flows back too: OpenSKP's author
+  contributed the foundation of IngeTrazo's extension system.
+
 Everything goes upstream so the whole free-software world benefits, not just
 our apps.
 
