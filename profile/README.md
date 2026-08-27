@@ -70,7 +70,6 @@ Development is funded out of pocket (~$150/month keeps the whole suite
 moving). If these tools save you a license fee, consider giving back —
 every expense is public and receipted.
 
-- 🌍 International: *Open Collective coming soon*
 - 🇵🇪 Desde Perú: Yape (ver las webs de cada app)
 
 ---
