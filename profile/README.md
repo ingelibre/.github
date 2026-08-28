@@ -114,9 +114,14 @@ issues, ordered by how little context they need:
 
 ## Support / Apoyo
 
-Development is funded out of pocket (~$150/month keeps the whole suite
-moving). If these tools save you a license fee, consider giving back —
-every expense is public and receipted.
+Any support is welcome — it is what lets this free alternative keep
+growing. Code, a translation, a bug report or a file that will not open
+all count; and if you would rather help financially, that is welcome too.
+
+> Cualquier apoyo es bienvenido — es lo que permite que esta alternativa
+> libre siga creciendo. Código, una traducción, un informe de fallo o un
+> archivo que no abre cuentan igual; y si prefieres apoyar
+> económicamente, también es bienvenido.
 
 - 🇵🇪 Desde Perú: Yape (ver las webs de cada app)
 
