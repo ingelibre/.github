@@ -23,7 +23,7 @@ for construction professionals, made by a practicing civil engineer.
 </td>
 <td width="33%" align="center">
 <a href="https://ingetrazo.com"><img src="https://raw.githubusercontent.com/ingelibre/.github/main/profile/images/ingetrazo.jpg" alt="IngeTrazo: a bullring modelled in 3D with terracing, arches and terrain"></a><br>
-<b>IngeTrazo</b> — 3D modelling and BIM
+<b>IngeTrazo</b> — 3D modelling and BIM, SketchUp in and out
 </td>
 <td width="33%" align="center">
 <a href="https://ingepresupuestos.com"><img src="https://raw.githubusercontent.com/ingelibre/.github/main/profile/images/ingepresupuestos.jpg" alt="IngePresupuestos: a construction budget with unit-cost analysis"></a><br>
