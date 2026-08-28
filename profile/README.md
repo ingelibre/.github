@@ -15,6 +15,27 @@ for construction professionals, made by a practicing civil engineer.
 > ese ecosistema que falta: software libre (GPL) para la construcción,
 > hecho por un ingeniero civil en ejercicio.
 
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://ingecad.org"><img src="https://raw.githubusercontent.com/ingelibre/.github/main/profile/images/ingecad.jpg" alt="IngeCAD: a roof truss drawn to scale with dimensions, layers and the command line"></a><br>
+<b>IngeCAD</b> — 2D drafting, DWG in and out
+</td>
+<td width="33%" align="center">
+<a href="https://ingetrazo.com"><img src="https://raw.githubusercontent.com/ingelibre/.github/main/profile/images/ingetrazo.jpg" alt="IngeTrazo: a bullring modelled in 3D with terracing, arches and terrain"></a><br>
+<b>IngeTrazo</b> — 3D modelling and BIM
+</td>
+<td width="33%" align="center">
+<a href="https://ingepresupuestos.com"><img src="https://raw.githubusercontent.com/ingelibre/.github/main/profile/images/ingepresupuestos.jpg" alt="IngePresupuestos: a construction budget with unit-cost analysis"></a><br>
+<b>IngePresupuestos</b> — budgets and site control
+</td>
+</tr>
+</table>
+
+*Real projects, not demos: a truss detail, a bullring with its terracing, and
+the budget for a town plaza — all drawn or costed with these tools in actual
+work.*
+
 | Project | What it is | Status |
 |---|---|---|
 | [**IngeCAD**](https://github.com/ingelibre/ingecad) · [ingecad.org](https://ingecad.org) | 2D CAD in the spirit of classic AutoCAD — faithful DWG/DXF round-trip, AutoCAD muscle-memory commands, paper space with viewports at exact scale, the full dimension family, plotting to scale. Linux/Wayland first | [![latest release](https://img.shields.io/github/v/release/ingelibre/ingecad?label=&color=brightgreen)](https://github.com/ingelibre/ingecad/releases/latest) |
@@ -63,6 +84,33 @@ the free clean-room library for the format — and we build OpenSKP itself:
 
 Everything goes upstream so the whole free-software world benefits, not just
 our apps.
+
+## Help wanted / Se busca ayuda
+
+**One person writes all three.** A practicing civil engineer, in the hours
+left over from actual site work. The tools have grown past what that can
+keep up with — and the bottleneck is not ideas, it is hands.
+
+**You do not need to know the codebase to help.** These are real open
+issues, ordered by how little context they need:
+
+| If you can… | Start here |
+|---|---|
+| **Spare five seconds** | ⭐ Star the repos. It is how the next engineer finds out these exist at all |
+| **Run Linux on hardware we don't have** | [ingetrazo#6](https://github.com/ingelibre/ingetrazo/issues/6) — the packaged builds failed on an NVIDIA + X11 machine. A stranger reporting that is why it got fixed. Our CI runs software Mesa; it was never going to catch it |
+| **Speak a language that isn't Spanish or English** | [ingecad#8](https://github.com/ingelibre/ingecad/issues/8) — *a language is one folder*. No code |
+| **Use AutoCAD in Spanish** | [ingecad#5](https://github.com/ingelibre/ingecad/issues/5) — check our command names against the real thing. No code, and only someone who uses it daily can do it |
+| **Draw an icon** | [ingecad#6](https://github.com/ingelibre/ingecad/issues/6) — four layer tools are missing theirs |
+| **Write Python** | PySide6 + OpenGL. [ingecad#7](https://github.com/ingelibre/ingecad/issues/7) (an object snap that is listed but not implemented) and [ingecad#9](https://github.com/ingelibre/ingecad/issues/9) are self-contained places to land |
+| **Open a file that breaks** | Send it. A `.dwg` or `.skp` that imports wrong is worth more than a bug report — most of the upstream fixes below started as one file that would not open |
+
+> **Una sola persona escribe los tres.** Un ingeniero civil en ejercicio, en
+> las horas que deja la obra. Las herramientas han crecido más de lo que eso
+> puede sostener, y lo que falta no son ideas: son manos. **No hace falta
+> conocer el código**: una estrella, probarlo en un equipo distinto al
+> nuestro, traducirlo, revisar los nombres de los comandos en español, o
+> mandarnos el archivo que no abre — todo eso ayuda, y la tabla de arriba
+> son issues abiertos de verdad.
 
 ## Support / Apoyo
 
